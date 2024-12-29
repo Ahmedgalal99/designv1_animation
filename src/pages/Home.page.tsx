@@ -4,8 +4,7 @@ import { Welcome } from '../components/Welcome/Welcome';
 export function HomePage() {
   return (
     <>
-      <Welcome />
-      <ColorSchemeToggle />
+      <div className="text-[10px] bg-black ">ahmed</div>
     </>
   );
 }
